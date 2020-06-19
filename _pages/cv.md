@@ -2,4 +2,5 @@
 permalink: /cv/
 title: "CV"
 --
-<embed src="https://tatumdmortimer.github.io/assets/pdfs/2020-06_cv.pdf" type="application/pdf"/>
+
+Download a PDF of my CV [here](https://tatumdmortimer.github.io/assets/pdfs/2020-06_cv.pdf).
