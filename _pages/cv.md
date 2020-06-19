@@ -1,5 +1,5 @@
 ---
 permalink: /cv/
 title: "CV"
----
-![Curriculum Vitae](assets/pdf/2020-06_cv.pdf)
+--
+<embed src="https://tatumdmortimer.github.io/assets/pdfs/2020-06_cv.pdf" type="application/pdf"/>
