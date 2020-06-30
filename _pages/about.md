@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Postdoctoral Fellow in the Department of Immunology and Infectious Diseases at Harvard T.H. Chan School of Public Health. My research in Dr. Yonatan Grad's lab uses whole genome sequencing data from bacterial pathogens, primarily *Neisseria gonorrhoeae* and *Staphylococcus aureus*, to understand transmission, antimicrobial resistance, and adaptation to host environments. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I did my PhD at University of Wisconsin-Madison in the Microbiology Doctoral Training Program. Under the mentorship of Dr. Caitlin Pepperell, my graduate thesis centered on the impact of recombination and selection on the evolution of bacterial pathogens.
