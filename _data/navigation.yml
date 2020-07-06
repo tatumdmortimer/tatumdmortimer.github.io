@@ -4,6 +4,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "CV"
-    url: /cv/
+    url: {{ site.baseurl }}/assets/pdfs/2020-07_cv.pdf
   - title: "About"
     url: /about/
