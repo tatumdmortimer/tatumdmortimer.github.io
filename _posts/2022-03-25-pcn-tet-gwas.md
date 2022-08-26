@@ -7,6 +7,7 @@ tags:
   - Neisseria gonorrhoeae
   - Antibiotic Resistance
   - GWAS
+  - Diagnostics
 ---
 
 Point-of-care diagnostics for antimicrobial susceptibility of *Neisseria gonorrhoeae* are a promising tool to reintroduce previous gonorrhea treatment reginens into the clinic and reduce the increase of antimicrobial resistance in gonocococcal populations.
