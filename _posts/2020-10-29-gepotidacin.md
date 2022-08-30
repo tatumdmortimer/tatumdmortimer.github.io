@@ -5,6 +5,7 @@ categories:
 tags:
   - Neisseria gonorrhoeae
   - Antibiotic Resistance
+  - Diagnostics
 link: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.43.1900210
 ---
 
