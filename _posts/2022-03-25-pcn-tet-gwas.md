@@ -19,4 +19,4 @@ For penicillin, we found that a combination of a sequence in *penA*, which repre
 We also found that wild-type *rpsJ* codon 57 and the absense of *tetM* predicted tetracycline susceptibility with high specificity. 
 Prediction of susceptibility using two loci had only moderate sensitivity, and the lab is working on follow up studies to assess the predictive power when additional loci are included.
 
-This project is now published in [The Lancet Microbe](https://doi.org/10.1016/S2666-5247\(22\)00034-9)!
+This project is now published in [The Lancet Microbe](https://doi.org/10.1016/S2666-5247%2822%2900034-9)!
