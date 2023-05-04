@@ -1,5 +1,5 @@
 ---
-title: "*Neisseria gonorrhoeae* diagnostic escape from a *gyrA*-based test for ciprofloxacin susceptibility can lead to increased zoliflodacin resistance"
+title: "*Neisseria gonorrhoeae* diagnostic escape from a *gyrA*-based test for ciprofloxacin susceptibility and the effect on zoliflodacin resistance: a bacterial genetics and experimental evolution study"
 categories:
   - Projects
 tags:
@@ -7,7 +7,7 @@ tags:
   - Antibiotic Resistance
   - Diagnostics
   - Pathogen Evolution
-link: https://www.biorxiv.org/content/10.1101/2022.08.10.503517v2
+link: https://doi.org/10.1016/S2666-5247(22)00356-1
 ---
 
-Our study on *Neisseria gonorrhoeae* escape from sequence based ciprofloxacin diagnostics, led by Dan Rubin, is now available on bioRxiv!
+Our study on *Neisseria gonorrhoeae* escape from sequence based ciprofloxacin diagnostics, led by Dr. Dan Rubin, has now been published at Lancet Microbe!
