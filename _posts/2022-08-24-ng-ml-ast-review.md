@@ -6,7 +6,7 @@ tags:
   - Neisseria gonorrhoeae
   - Antibiotic Resistance
   - Diagnostics
-link: https://dash.harvard.edu/handle/1/37373038
+link: https://doi.org/10.1111/nyas.14549
 ---
 
-A preprint of Sky Martin's in-depth review of machine learning models for antimicrobial susceptibility testing is now available!
+Sky Martin's in-depth review of machine learning models for antimicrobial susceptibility testing is now available at the Annals of the New York Academy of Sciences! 
