@@ -10,7 +10,7 @@ tags:
   - Diagnostics
 ---
 
-Point-of-care diagnostics for antimicrobial susceptibility of *Neisseria gonorrhoeae* are a promising tool to reintroduce previous gonorrhea treatment reginens into the clinic and reduce the increase of antimicrobial resistance in gonocococcal populations.
+Point-of-care diagnostics for antimicrobial susceptibility of *Neisseria gonorrhoeae* are a promising tool to reintroduce previous gonorrhea treatment regimens into the clinic and reduce the increase of antimicrobial resistance in gonocococcal populations.
 While a single locus target for ciprofloxacin susceptibility performs well, single loci do not predict susceptibility to other antibiotics.
 For example, reistance to both penicillin and tetracycline can be acquired via plasmid-encoded or chromosomally-encoded mechanisms, and multiple loci contribute to chromosomally-encoded resistance.
 
