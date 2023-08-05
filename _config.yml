@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Tatum Mortimer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Postdoctoral Fellow at Harvard T.H. Chan School of Public Health"
+  bio    : "Assistant Professor, Department of Population Health, UGA College of Veterinary Medicine"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
